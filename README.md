@@ -19,4 +19,6 @@
 # GitHub Stats:
 ![Hesbon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heshbon&show_icons=true&theme=radical)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Heshbon&show_icons=true&theme=radical&custom_title=GitHub%20Stats&hide=issues&bg_color=ffffff00&hide_border=true&include_all_commits=true&count_private=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heshbon&layout=compact&theme=radical)
