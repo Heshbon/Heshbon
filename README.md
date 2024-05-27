@@ -2,9 +2,9 @@
 
 ## About me
 - 🌱 Passionate about software engineering, committed to continuous learning, with a deep interest in AI and cybersecurity, always seeking new challenges and innovative projects.
-- 🔭 Currently, I'm focusing on Backend Development, diving deeper into Python and expanding my proficiency in the MERN stack. My journey in tech is driven by a keen interest in AI and cybersecurity, areas where I continuously seek to learn and innovate.
-- 👯 I'm always on the lookout for exciting collaboration opportunities, whether it's open-source projects, hackathons, or startup ventures. I'm eager to contribute to innovative projects and work with like-minded individuals to create impactful solutions.
-
+- 🔭 I’m currently working on Backend Development, learning PYTHON and MERN Stack..
+- 👯 I’m looking to collaborate on open source, Hackathon, and startup ventures.
+  
 ## Contact
 - 📫 How to reach me: hesskip@gmail.com
   
