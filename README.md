@@ -1,7 +1,7 @@
 ![Banner](https://github.com/Heshbon/Heshbon/blob/main/hes.png)
 
 ## About me
-- 🌱 Passionate about software engineering, committed to continuous learning, with a deep interest in AI and cybersecurity, always seeking new challenges and innovative projects.
+- 🌱 Passionate about software engineering, committed to continuous learning, with a deep interest in AI and cybersecurity, always seeking new challenges and innovative solutions.
 - 🔭 I’m currently working on Backend Development, learning PYTHON and MERN Stack..
 - 👯 I’m looking to collaborate on open source, Hackathon, and startup ventures.
   
