@@ -17,7 +17,7 @@
 - ⚛️ React
 
 ## GitHub Stats:
-![Hesbon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heshbon&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats%20-%20Hesbon&hide=issues&hide_rank=true&hide_title=true&bg_color=ffffff00&hide_border=true)
+![Hesbon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heshbon&show_icons=true&theme=radical)
 
 ![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Heshbon&theme=radical)
 
