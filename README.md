@@ -22,3 +22,6 @@
 ![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Heshbon&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heshbon&layout=compact&theme=radical)
+
+# 📈 Profile Views:
+![Profile Views](https://komarev.com/ghpvc/?username=Heshbon&color=blueviolet)
