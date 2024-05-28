@@ -23,5 +23,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heshbon&layout=compact&theme=radical)
 
-# 📈 Profile Views:
+## 📈 Profile Views:
 ![Profile Views](https://komarev.com/ghpvc/?username=Heshbon&color=blueviolet)
