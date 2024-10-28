@@ -11,7 +11,7 @@
 ## Skills
 - 🐪 C
 - 💻 JavaScript[MERN Stack]
-- - 🐍 Python
+- 🐍 Python
 - 💻 HTML
 - 💻 CSS
 
