@@ -9,8 +9,6 @@
   
 ## Contact
 
-  - **X**: https://twitter.com/HesbonKyp
-  -  **LinkedIn**: [https://www.linkedin.com/in/hesbon-kipchirchir-a28460245/].
   - **📫 How to reach me**: hesskip@gmail.com
   
 ## Skills
