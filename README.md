@@ -40,10 +40,10 @@
         - **React** for building user interfaces.
         - **JavaScript** for primary frontend logic.
         - **Firebase Authentication** for secure user management.
+        - **Role**: Final project presentation, demonstrating proficiency in web development.
   - **Additional Libraries**:
     - **React Router** for navigation within the app.
     - **Styled Components** for managing and styling components.
-    - **Role**: Final project presentation, demonstrating proficiency in web development.
   - **Social Media Dashboard**
     - **Technologies Used**: Node.js, MongoDB, React for frontend.
     - **Role**: Designing and developing, aiming for real-time data visualization and analytics.
