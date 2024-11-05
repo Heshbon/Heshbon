@@ -2,28 +2,39 @@
 
 ## About me
 - 🌱 A dedicated software engineer with a specialization in backend development, I am currently exploring Rust to enhance my skill set. My passion for data, AI, and cybersecurity drives me to seek innovative challenges that push technological boundaries. Committed to continuous learning, I aim to leverage technology to solve real-world problems. My love for open-source technologies, like Ubuntu OS, guides my work towards creating solutions that are both secure and efficient.
+
 - 🔭 After mastering backend development, I am now delving into Rust for systems programming and performance optimization. Alongside, I am actively developing my personal portfolio website and designing a social media dashboard, applying my backend expertise to create robust, scalable solutions.
+
 - 👯 I seek collaborations in areas where data, AI, ML, and secure backend development intersect. Open to participating in Hackathons, contributing to open-source projects, and joining forces with startups to bring data-driven solutions to life.
   
 ## Contact
-  - **📫 How to reach me**: hesskip@gmail.com
   - **LinkedIn**: [https://www.linkedin.com/in/hesbon-kipchirchir-a28460245/].
+  
   - **Github**: [https://github.com/Heshbon].
+    
   - **X**: https://twitter.com/HesbonKyp
+
+  - **📫 How to reach me**: hesskip@gmail.com
   
 ## Skills
   - **🐪 C**
     - Proficient in C for low-level programming, especially useful in data processing and embedded systems.
+  
   - **💻 JavaScript[MERN Stack]**
     - Proficient in MongoDB, Express.js, React, Node.js for full-stack web development.
+  
   - **🐍 Python**
     - Skilled in Python for backend development, data analysis, and scripting. Experienced with frameworks like Flask or Django.
+  
   - **🔗 Rust**
     - Currently exploring Rust for systems programming, focusing on safety, concurrency, and performance.
+  
   - **💻 HTML & CSS**
     - Advanced knowledge in creating responsive, visually appealing web interfaces.
+  
   - **📊 Data Analysis & ML**
     - Enthusiastic about applying machine learning algorithms and data analytics to real-world problems.
+  
   - **🐧 Ubuntu OS**
     - Proficient user of Ubuntu as my primary operating system.
 
