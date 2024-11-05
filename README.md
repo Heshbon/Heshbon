@@ -1,12 +1,13 @@
 ![Banner](https://github.com/Heshbon/Heshbon/blob/main/hes.png)
 
 ## About me
-- 🌱 Passionate about software engineering, committed to continuous learning, with a deep interest in AI and cybersecurity, always seeking new challenges and innovative solutions.
-- 🔭 I am currently working on Backend Development, learning PYTHON and MERN Stack..
-- 👯 I am looking to collaborate on open source, Hackathon, and startup ventures.
+- 🌱 A dedicated software engineer with a specialization in backend development, I am currently exploring Rust to enhance my skill set. My passion for data, AI, and cybersecurity drives me to seek innovative challenges that push technological boundaries. Committed to continuous learning, I aim to leverage technology to solve real-world problems. My love for open-source technologies, like Ubuntu OS, guides my work towards creating solutions that are both secure and efficient.
+- 🔭 After mastering backend development, I am now delving into Rust for systems programming and performance optimization. Alongside, I am actively developing my personal portfolio website and designing a social media dashboard, applying my backend expertise to create robust, scalable solutions.
+- 👯 I seek collaborations in areas where data, AI, ML, and secure backend development intersect. Open to participating in Hackathons, contributing to open-source projects, and joining forces with startups to bring data-driven solutions to life.
   
 ## Contact
 - 📫 How to reach me: hesskip@gmail.com
+- LinkedIn: 
   
 ## Skills
 - 🐪 C
