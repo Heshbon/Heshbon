@@ -1,4 +1,4 @@
-![Banner](https://github.com/Heshbon/Heshbon/blob/main/hes.png)
+![Banner](https://github.com/Heshbon/Heshbon/blob/main/hesbon.png)
 
 ## About me
 - 🌱 A dedicated software engineer with a specialization in backend development, I am currently exploring Rust to enhance my skill set. My passion for data, AI, and cybersecurity drives me to seek innovative challenges that push technological boundaries. Committed to continuous learning, I aim to leverage technology to solve real-world problems. My love for open-source technologies, like Ubuntu OS, guides my work towards creating solutions that are both secure and efficient.
