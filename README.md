@@ -8,10 +8,11 @@
 - 👯 I seek collaborations in areas where data, AI, ML, and secure backend development intersect. Open to participating in Hackathons, contributing to open-source projects, and joining forces with startups to bring data-driven solutions to life.
   
 ## Contact
-  - **LinkedIn**: [https://www.linkedin.com/in/hesbon-kipchirchir-a28460245/].
-    
+
   - **X**: https://twitter.com/HesbonKyp
 
+  -  **LinkedIn**: [https://www.linkedin.com/in/hesbon-kipchirchir-a28460245/].
+  
   - **📫 How to reach me**: hesskip@gmail.com
   
 ## Skills
