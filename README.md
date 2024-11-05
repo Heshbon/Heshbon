@@ -10,30 +10,22 @@
 ## Contact
 
   - **X**: https://twitter.com/HesbonKyp
-
   -  **LinkedIn**: [https://www.linkedin.com/in/hesbon-kipchirchir-a28460245/].
-  
   - **📫 How to reach me**: hesskip@gmail.com
   
 ## Skills
   - **🐪 C**
     - Proficient in C for low-level programming, especially useful in data processing and embedded systems.
-  
   - **💻 JavaScript[MERN Stack]**
     - Proficient in MongoDB, Express.js, React, Node.js for full-stack web development.
-  
   - **🐍 Python**
     - Skilled in Python for backend development, data analysis, and scripting. Experienced with frameworks like Flask or Django.
-  
   - **🔗 Rust**
     - Currently exploring Rust for systems programming, focusing on safety, concurrency, and performance.
-  
   - **💻 HTML & CSS**
     - Advanced knowledge in creating responsive, visually appealing web interfaces.
-  
   - **📊 Data Analysis & ML**
     - Enthusiastic about applying machine learning algorithms and data analytics to real-world problems.
-  
   - **🐧 Ubuntu OS**
     - Proficient user of Ubuntu as my primary operating system.
 
@@ -41,7 +33,6 @@
   - **Personal Portfolio Website**
     - **Technologies Used**: MERN Stack, Node.js and Express.js for backend components.
     - **Role**: Sole Developer, focusing on showcasing skills and projects with modern web design.
-  
   - **Webstack Portfolio Project**
     - **Technologies Used**:
       - **Backend**: Firebase for backend services (authentication, real-time database) via RESTful API.
@@ -49,12 +40,10 @@
         - **React** for building user interfaces.
         - **JavaScript** for primary frontend logic.
         - **Firebase Authentication** for secure user management.
-    
   - **Additional Libraries**:
     - **React Router** for navigation within the app.
     - **Styled Components** for managing and styling components.
     - **Role**: Final project presentation, demonstrating proficiency in web development.
-  
   - **Social Media Dashboard**
     - **Technologies Used**: Node.js, MongoDB, React for frontend.
     - **Role**: Designing and developing, aiming for real-time data visualization and analytics.
