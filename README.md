@@ -37,7 +37,7 @@
   - **Additional Libraries**:
     - **React Router** for navigation within the app.
     - **Styled Components** for managing and styling components.
-  - **[IgctelViz Landing Page](https://github.com/Heshbon/IgctelViz-landing-page)**
+  - **[IgctelViz Landing Page](https://heshbon.github.io/IgctelViz-landing-page/)**
     - **Technologies Used**: HTML, CSS & JavaScript.
     - **Role**: Designing and developing, aiming for visualizing cyber security data in real-time.
 
