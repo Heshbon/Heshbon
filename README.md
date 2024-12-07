@@ -46,7 +46,7 @@
      - Powered by **Holberton School**.
      - **Specialisation**: Backend Development.
    - **Degree**: BSc Information Sciences, 2020.
-    - **Institution**: Moi University.
+     - **Institution**: Moi University.
 
 ## Tools & Frameworks
   - Git for version control.
