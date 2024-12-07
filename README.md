@@ -5,10 +5,6 @@
 
 - 👯 I seek collaborations in areas where data, AI, ML, and secure backend development intersect. Open to participating in Hackathons, contributing to open-source projects, and joining forces with startups to bring data-driven solutions to life.
   
-## Contact
-
-  - **📫 How to reach me**: hesskip@gmail.com
-  
 ## Skills
   - **🐪 C**
     - Proficient in C for low-level programming, especially useful in data processing and embedded systems.
@@ -42,7 +38,7 @@
     - **Role**: Designing and developing, aiming for visualizing cyber security data in real-time.
 
 ## Education
-  - **ALX Africa**: Software Engineering Programme. 21st Aug 2023 - 5th Nov 2024
+  - **ALX Africa**: Software Engineering Programme, Aug 2023 - 5th Nov 2024.
      - Powered by **Holberton School**.
      - **Specialisation**: Backend Development.
    - **Degree**: BSc Information Sciences, 2020.
@@ -60,6 +56,10 @@
 
 ## Certifications
   - Certified in Cybersecurity, ISC2 via Coursera, 2022.
+
+## Contact
+
+  - **📫 How to reach me**: hesskip@gmail.com
 
 # 📊 GitHub Stats:
 ![Hesbon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heshbon&show_icons=true&theme=radical)
