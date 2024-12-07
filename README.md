@@ -1,9 +1,7 @@
 ![Banner](https://github.com/Heshbon/Heshbon/blob/main/hesbon.png)
 
 ## About me
-- 🌱 A dedicated software engineer with a specialization in backend development. My passion for data, AI, and cybersecurity drives me to seek innovative challenges that push technological boundaries. Committed to continuous learning, I aim to leverage technology to solve real-world problems. My love for open-source technologies, like Ubuntu OS, guides my work towards creating solutions that are both secure and efficient.
-
-- 🔭 After mastering backend development, I am now delving into Rust for systems programming and performance optimization. Alongside, I am actively developing my personal portfolio website,applying my backend expertise to create robust, and scalable solutions.
+- 🌱 A dedicated full stack software engineer with a specialization in backend development. My passion for data, AI, and cybersecurity drives me to seek innovative challenges that push technological boundaries. Committed to continuous learning, I aim to leverage technology to solve real-world problems. My love for open-source technologies, like Ubuntu OS, guides my work towards creating solutions that are both secure and efficient.
 
 - 👯 I seek collaborations in areas where data, AI, ML, and secure backend development intersect. Open to participating in Hackathons, contributing to open-source projects, and joining forces with startups to bring data-driven solutions to life.
   
@@ -27,11 +25,8 @@
   - **🐧 Ubuntu OS**
     - Proficient user of Ubuntu as my primary operating system.
 
-## Projects
-  - **Personal Portfolio Website**
-    - **Technologies Used**: MERN Stack, Node.js and Express.js for backend components.
-    - **Role**: Sole Developer, focusing on showcasing skills and projects with modern web design.
-  - **Webstack Portfolio Project**
+## Featured Projects
+  - **[Webstack Portfolio Project](https://github.com/Heshbon/nexttalk-chat-app)**
     - **Technologies Used**:
       - **Backend**: Firebase for backend services (authentication, real-time database) via RESTful API.
       - **Frontend**:
@@ -42,12 +37,15 @@
   - **Additional Libraries**:
     - **React Router** for navigation within the app.
     - **Styled Components** for managing and styling components.
-  - **Social Media Dashboard**
-    - **Technologies Used**: Node.js, MongoDB, React for frontend.
-    - **Role**: Designing and developing, aiming for real-time data visualization and analytics.
+  - **[IgctelViz Landing Page](https://github.com/Heshbon/IgctelViz-landing-page)**
+    - **Technologies Used**: HTML, CSS & JavaScript.
+    - **Role**: Designing and developing, aiming for visualizing cyber security data in real-time.
 
 ## Education
-  - **Degree**: BSc Information Sciences, 2020.
+  - **ALX Africa**: Software Engineering Programme. 21st Aug 2023 - 5th Nov 2024
+     - Powered by **Holberton School**.
+     - **Specialisation**: Backend Development.
+   - **Degree**: BSc Information Sciences, 2020.
     - **Institution**: Moi University.
 
 ## Tools & Frameworks
