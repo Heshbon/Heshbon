@@ -1,7 +1,7 @@
 ![Banner](https://github.com/Heshbon/Heshbon/blob/main/hesbon.png)
 
 ## About me
-- 🌱 A dedicated full stack software engineer with a specialization in backend development. My passion for data, AI, and cybersecurity drives me to seek innovative challenges that push technological boundaries. Committed to continuous learning, I aim to leverage technology to solve real-world problems. My love for open-source technologies, like Ubuntu OS, guides my work towards creating solutions that are both secure and efficient.
+- 🌱 A dedicated full stack software engineer with a specialization in backend development.
 
 - 👯 I seek collaborations in areas where data, AI, ML, and secure backend development intersect. Open to participating in Hackathons, contributing to open-source projects, and joining forces with startups to bring data-driven solutions to life.
   
