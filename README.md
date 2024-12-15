@@ -16,6 +16,10 @@
     - Currently exploring Rust for systems programming, focusing on safety, concurrency, and performance.
   - **💻 HTML & CSS**
     - Advanced knowledge in creating responsive, visually appealing web interfaces.
+  - **📱 Next.js**
+     - Skilled in Next.js for building fast, and SEO-friendly web applications with server-side rendering and static site generation.
+  - **🎨 Tailwind CSS**
+     - Proficient in using Tailwind CSS for building fast and scalable websites and applications, leveraging utility-first classes for modern and responsive designs.
   - **📊 Data Analysis & ML**
     - Enthusiastic about applying machine learning algorithms and data analytics to real-world problems.
   - **🐧 Ubuntu OS**
