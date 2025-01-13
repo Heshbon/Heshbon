@@ -5,11 +5,11 @@
   
 - 👯 Proficient in C, Python, TypeScript, and JavaScript, I have expertise in frameworks like React, Django, Node.js, and Three.js. I collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems.
   
-## Skills
+## My skills span:
   - **Programming Languages**: C, Python, JavaScript, and TypeScript.
   - **Frameworks**: MERN stack (React, Node.js), Django, Flask and Three.js.
   - **Web development**: Responsive and modern design with HTML, CSS and Tailwind CSS.
-  - **Data Analysis & Machine Learning** to address complex issues with data-driven insights.
+  - **Data Analysis & Machine Learning**.
   - **Databases**: MongoDB, PostgreSQL, and MySQL.
   - **Version Control**: Git.
   - **Containerization**: Docker.
