@@ -16,7 +16,7 @@
   - Proficient user of Ubuntu as my primary operating system.
 
 ## Featured Projects
-  - **[Webstack Portfolio Project](https://github.com/Heshbon/nexttalk-chat-app)**
+  - **[Webstack Portfolio Project](https://heshbon.github.io/nexttalk-chat-app/)**
     - **Technologies Used**:
       - **Backend**: Firebase for backend services (authentication, real-time database) via RESTful API.
       - **Frontend**:
