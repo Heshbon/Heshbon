@@ -1,29 +1,19 @@
 ![Banner](https://github.com/Heshbon/Heshbon/blob/main/hesbon.png)
 
 ## About me
-- 🌱 A dedicated full stack software engineer with a specialization in backend development.
-
-- 👯 I seek collaborations in areas where data, AI, ML, and secure backend development intersect. Open to participating in Hackathons, contributing to open-source projects, and joining forces with startups to bring data-driven solutions to life.
+- 🌱 A dedicated Full-Stack Software Engineer with specialisation in backend development and a deep passion for AI, data, and cybersecurity.
+  
+- 👯 Proficient in C, Python, TypeScript, and JavaScript, I have expertise in frameworks like React, Django, Node.js, and Three.js. I collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems.
   
 ## Skills
-  - **🐪 C**
-    - Proficient in C for low-level programming, especially useful in data processing and embedded systems.
-  - **💻 JavaScript[MERN Stack]**
-    - Proficient in MongoDB, Express.js, React, Node.js for full-stack web development.
-  - **🐍 Python**
-    - Skilled in Python for backend development, data analysis, and scripting. Experienced with frameworks like Flask or Django.
-  - **🔗 Rust**
-    - Currently exploring Rust for systems programming, focusing on safety, concurrency, and performance.
-  - **💻 HTML & CSS**
-    - Advanced knowledge in creating responsive, visually appealing web interfaces.
-  - **📱 Next.js**
-     - Skilled in Next.js for building fast, and SEO-friendly web applications with server-side rendering and static site generation.
-  - **🎨 Tailwind CSS**
-     - Proficient in using Tailwind CSS for building fast and scalable websites and applications, leveraging utility-first classes for modern and responsive designs.
-  - **📊 Data Analysis & ML**
-    - Enthusiastic about applying machine learning algorithms and data analytics to real-world problems.
-  - **🐧 Ubuntu OS**
-    - Proficient user of Ubuntu as my primary operating system.
+  - **Programming Languages**: C, Python, JavaScript, and TypeScript.
+  - **Frameworks**: MERN stack (React, Node.js), Django, Flask and Three.js.
+  - **Web development**: Responsive and modern design with HTML, CSS and Tailwind CSS.
+  - **Data Analysis & Machine Learning** to address complex issues with data-driven insights.
+  - **Databases**: MongoDB, PostgreSQL, and MySQL.
+  - **Version Control**: Git.
+  - **Containerization**: Docker.
+  - Proficient user of Ubuntu as my primary operating system.
 
 ## Featured Projects
   - **[Webstack Portfolio Project](https://github.com/Heshbon/nexttalk-chat-app)**
@@ -47,16 +37,6 @@
      - **Specialisation**: Backend Development.
    - **Degree**: BSc Information Sciences, 2020.
      - **Institution**: Moi University.
-
-## Tools & Frameworks
-  - Git for version control.
-  - Containerization: Docker
-    - **Backend Development**:
-      - Python: Flask/Django
-      - JavaScript: Express.js/Node.js.
-      - Rust for high-performance applications.
-    - Databases: MongoDB, PostgreSQL, SQL.
-    - Frontend Development: React for interactive and dynamic interfaces
 
 ## Certifications
   - Certified in Cybersecurity, ISC2 via Coursera, 2022.
