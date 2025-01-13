@@ -1,7 +1,7 @@
 ![Banner](https://github.com/Heshbon/Heshbon/blob/main/hesbon.png)
 
 ## About me
-- 🌱 A dedicated Full-Stack Software Engineer with specialisation in backend development and a deep passion for AI, data, and cybersecurity.
+- 🌱 A dedicated Full-Stack Software Engineer with a passion for AI, data, and cybersecurity.
   
 - 👯 Proficient in C, Python, TypeScript, and JavaScript, I have expertise in frameworks like React, Django, Node.js, and Three.js. I collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems.
   
