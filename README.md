@@ -1,6 +1,6 @@
 Hi there 👋
 
-I am Hesbon,a full-stack software engineer proficient in C, C#, Python, JavaScript, React, and TypeScript. I design and build scalable front-end and back-end systems, continuously advancing the limits of what's possible with code.
+Fully committed to the philosophy of lifelong learning, I am a resourceful and collaborative full-stack software engineer with a specialized focus on backend development. I have a deep passion for C, JavaScript (MERN), C# (.NET), Python, TypeScript, and crafting secure, high-performance systems.
 
 + 👯 I am eager to collaborate with those who see tech as a force for good.
     + Reach me at [cityalight.dev@gmail.com](mailto:cityalight.dev@gmail.com) to shape what's next and bring ideas to life!
