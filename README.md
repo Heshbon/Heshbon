@@ -15,7 +15,7 @@ Currently studying for an MSc in IT with Cybersecurity which shapes how I think 
 ## What I'm working on
 
 - 🔨 A privacy-focused journaling PWA (MSc coursework).
-- ✍️ Writing about cybersecurity and AI on Substack.
+- ✍️ Writing about software engineering, cybersecurity, and AI on Substack.
 
 ## Get in touch
 
