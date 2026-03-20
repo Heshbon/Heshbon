@@ -19,8 +19,8 @@ Currently studying for an MSc in IT with Cybersecurity which shapes how I think 
 
 ## Get in touch
 
-- 🌐 HesbonKyp.com
-- 💼 linkedin.com/in/hesbon-kipchirchir
+- 🌐 [HesbonKyp.com](https://hesbonkyp.com)
+- 💼 [linkedin.com/in/Hesbon-Kipchirchir](https://linkedin.com/in/hesbon-kipchirchir)
 - ✉️ cityalight.dev@gmail.com
 
 ```
