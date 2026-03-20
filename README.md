@@ -2,7 +2,7 @@
 
 Full-stack software engineer working at the intersection of software engineering, cybersecurity, and AI.
 
-Currently studying for an MSc in IT with Cybersecurity which shapes how I think about every system I build.
+Currently studying for an MSc in IT with Cybersecurity, which shapes how I think about every system I build.
 
 ## What I work with
 
